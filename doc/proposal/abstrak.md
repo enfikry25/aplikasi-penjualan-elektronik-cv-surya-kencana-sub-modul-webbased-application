@@ -1,0 +1,5 @@
+**ABSTRAK**
+
+E-Commerce merupakan suatu kontak transaksi perdagangan antara penjual dan pembeli dengan menggunakan media internet.Keuntungan yang diperoleh dengan menggunakan transaksi melalui e-commerce adalah untuk meningkatkan pendapatan dengan menggunakan penjualan online yang biayanya lebih murah dan juga sekaligus biaya-biaya operasinal seperti kertas, pencetakan kalog.Tujuan penelitian ini adalah menyediakan aplikasi penjualan elektronik yangterhubung langsung ke website secara lengkap dengan informasi toko elektronik beserta harga dan cara pembeliannya sehingga dapat mempermudah usermencari elektronik tertentu. Metode penelitian yang digunakan dalam skripsi iniadalah metode waterfall yang meliputi komunikasi perencanaan, pemodelan,konstruksi, dan deployment. Dengan menggunakan permodelan UML. Memakai Bahasa pemograman _PHP_, _HTML_, _MySQL_, _Framework CodeIgniter_ dan beberapa perangkat lunak lainnya.
+
+**Kata Kunci** : _Penjualan Online,__CodeIgniter_, _E-commerce_, _HTML, MySQL, PHP_
